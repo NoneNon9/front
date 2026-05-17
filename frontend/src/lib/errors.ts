@@ -16,7 +16,7 @@ import {
   TimeoutError,
 } from "viem";
 import { ChainMismatchError } from "viem";
-import { ConnectorNotConnectedError } from "wagmi";
+import { ConnectorNotConnectedError } from "@wagmi/core";
 
 /** Human-readable copy for every custom error the protocol throws. */
 const CUSTOM_ERRORS: Record<string, (args: readonly unknown[]) => string> = {
