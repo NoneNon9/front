@@ -2,7 +2,7 @@
   "chainId": 421614,
   "chainName": "Arbitrum Sepolia",
   "collateralToken": "0x3aD6eB609ec0Aca21DAf6d8256B570A75cD6D228",
-  "deployedAt": 1779049946,
+  "deployedAt": 1779057113,
   "deployer": "0x543029966d6C52163F788acf09093B5d6F782f8A",
   "factoryImpl": "0x03E755F17Aaa6D9c8B1a5C0A48849e3F9962e5a7",
   "factoryProxy": "0xb979E0d4659C22118d78a2773810f9fe5eDc29a8",
