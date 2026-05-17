@@ -13,6 +13,7 @@ export interface ProposalSummary {
   id: string;                // proposalId hex
   proposer: string;
   description: string;
+  statusSnapshot: string;
   forVotes: string;
   againstVotes: string;
   abstainVotes: string;
