@@ -4,7 +4,7 @@
 // At build time Next.js inlines this JSON via static import, so the
 // frontend bundle always agrees with the latest verified deploy.
 
-import deployment from "../../../deployments/arbitrum-sepolia.json";
+import deployment from './abi-json/arbitrum-sepolia.json';
 
 import type { Address } from "viem";
 
